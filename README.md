@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Frontendmentor](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/frontend-mentor-testimonials-grid-section-solution-i8tRbUbOz)
+- Live Site URL: [Live site](https://sumusiriwardana.github.io/testimonials-grid-section/)
 
 ## My process
 
